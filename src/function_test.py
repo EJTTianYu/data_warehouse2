@@ -6,4 +6,4 @@
 if __name__=="__main__":
     list=[0,1,2]
     list.pop(0)
-    print(list)
+    print(1.4//0.5)
